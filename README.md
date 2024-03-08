@@ -1,9 +1,9 @@
 # auto-reply-comments-on-youtube
 Một script siêu đơn giản để tự động trả lời comment trong một video Youtube
-> [!CAUTION]
-> Tool này mình đã viết khá là lâu rồi, khoảng 1-2 năm trước. Mình không đảm bảo được liệu script này sẽ có thể sống lâu hay không.<br>Thêm nữa, mình không có ý định duy trì hay phát triển script này thành một app hoàn chỉnh
 
-> UI siêu phèn là vì hồi đó mình viết script để người thân xài :)))
+## CHÚ Ý: MÌNH SẼ KHÔNG NHẬN FIX BUG, THÊM TÍNH NĂNG CHO SCRIPT NÀY DO MÌNH KHÔNG CÓ ĐỘNG LỰC VÀ LÝ DO CHÍNH ĐÁNG ĐỂ LÀM!
+> [!CAUTION]
+> Script này mình đã viết khá là lâu rồi, khoảng 1-2 năm trước, do một người thân trong gia đình nhờ vì có việc riêng (và đó là lý do tại sao UI nó phế kinh khủng).<br><br>Tại thời điểm mình viết file README này, mình không đảm bảo được liệu script này sẽ có thể sống lâu hay không.<br>Thêm nữa, mình không có ý định duy trì hay phát triển script này thành một app hoàn chỉnh
 
 > [!WARNING]
 > Bản bạn đang nhìn thấy đây là mình đã sửa lại vài dòng code để nhìn đỡ tàn phế thôi, chứ còn mình ***CHƯA TEST Ở BẤT KÌ VIDEO NÀO CẢ!*** (và mình không biết nên test ở chỗ nào luôn, nên đành chịu)
@@ -31,4 +31,4 @@ pip install google-auth
 > Nhớ cấp cả quyền chèn bình luận và quản lý acc Youtube. Không cho quyền quản lý acc thì script này xin bó tay =)))
 
 # Giấy phép
-Script này dùng giấy phép The Unlicensed.
+Script này dùng giấy phép The Unlicensed.<br>Nói cho tóm gọn là cứ làm gì thì làm, mình không quan tâm, và cũng không dính líu hay can thiệp gì tới bản script do bạn sửa đổi
