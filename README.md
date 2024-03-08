@@ -24,5 +24,11 @@ pip install google-auth
 9. Sao chép API key bạn vừa tạo, tạo một file ``key.txt`` ở chỗ để file script và dán key vào đó.
 10. Vào OAuth2 client ID, trượt xuống client secrets, nhấn nút tải xuống ở hàng client secrets để lấy file json, sau đó đổi tên thành ``clientid.json`` và để vào nơi để file script
 
+## Hướng dẫn sử dụng
+1. Chạy script
+2. Nếu hỏi đăng nhập thì cứ đăng nhập
+> [!WARNING]
+> Nhớ cấp cả quyền chèn bình luận và quản lý acc Youtube. Không cho quyền quản lý acc thì script này xin bó tay =)))
+
 # Giấy phép
 Script này dùng giấy phép The Unlicensed.
